@@ -1,0 +1,7 @@
+{
+  "keys": {
+    "VIP-2024": {"valid":true, "expire":"2024-12-31"},
+    "TEST-001": {"valid":false}
+  },
+  "last_update": "2023-11-20"
+}
