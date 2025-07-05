@@ -1,11 +1,18 @@
-{
-  "LICENSE_KEY_1": {
-    "active": true
-  },
-  "LICENSE_KEY_2": {
-    "active": false
-  },
-  "ABC123": {
-    "active": true
-  }
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{  "1": {    "active": true   "user": "userA"，    "expire_date": "2025-12-31"  }，  "LICENSE-654321": {    "active": false，    "user": "userB"，    "expire_date": "2023-06-30"  }，  "LICENSE-112233": {    "active": true，    "user": "userC"，    "expire_date": "2025-01-01"  }}， 
