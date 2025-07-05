@@ -1,2 +1,11 @@
-
-{  "LICENSE_KEY_1": {    "active": true  } "LICENSE_KEY_2": {    "active": false  }，  "ABC123": {    "active": true  }}
+{
+  "LICENSE_KEY_1": {
+    "active": true
+  },
+  "LICENSE_KEY_2": {
+    "active": false
+  },
+  "ABC123": {
+    "active": true
+  }
+}
