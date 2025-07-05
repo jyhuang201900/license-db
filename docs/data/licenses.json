@@ -1,7 +1,13 @@
 {
-  "keys": {
-    "VIP-2024": {"valid":true, "expire":"2024-12-31"},
-    "TEST-001": {"valid":false}
-  },
-  "last_update": "2023-11-20"
+    "licenses": {
+        "A": {
+            "active": true,
+            "expiry": "2025-12-31",
+            "device_limit": 3
+        },
+        "TEST-KEY": {
+            "active": false,
+            "expiry": "2023-01-01"
+        }
+    }
 }
